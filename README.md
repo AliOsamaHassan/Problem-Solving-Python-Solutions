@@ -1,1 +1,5 @@
-# Problem-Solving-Python-Solutions
+# Problem Solving Python Solutions
+
+### For websites:
+- LeetCode
+- Hackerrank
